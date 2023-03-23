@@ -1,0 +1,4 @@
+mongo-connection-string: <insert-connection-string-here>
+mongo-auth-type: cert
+mongo-cert-path: <insert-certificate-path-here-if-using-cert-auth-type>
+mongo-db-name: <insert-mongo-db-name-that-should-be-used-here>
